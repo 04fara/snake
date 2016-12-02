@@ -1,6 +1,6 @@
 # Snake
 
-A simple snake game with no borders. Made in March 2016.
+A simple snake game with no borders, written in Java. Made in March 2016.
 
 Board size is 10x10 squares.
 
